@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-dimensions-and-tracking-react-inertia",
+  "capabilityKey": "liberusoftware/module-accounting-dimensions-and-tracking",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-accounting-dimensions-and-tracking-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/accounting/nextjs/dimensions-and-tracking.md",
+  "presentationPlan": "projects/accounting/react/dimensions-and-tracking.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
